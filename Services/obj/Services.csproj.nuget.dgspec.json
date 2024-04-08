@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Repositorio\\api.personas\\Services\\Services.csproj": {}
+    "F:\\Repositorio\\tp1_acosta_Optativo_V\\Services\\Services.csproj": {}
   },
   "projects": {
-    "F:\\Repositorio\\api.personas\\Repository\\Repository.csproj": {
+    "F:\\Repositorio\\tp1_acosta_Optativo_V\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Repositorio\\api.personas\\Repository\\Repository.csproj",
+        "projectUniqueName": "F:\\Repositorio\\tp1_acosta_Optativo_V\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "F:\\Repositorio\\api.personas\\Repository\\Repository.csproj",
+        "projectPath": "F:\\Repositorio\\tp1_acosta_Optativo_V\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "F:\\Repositorio\\api.personas\\Repository\\obj\\",
+        "outputPath": "F:\\Repositorio\\tp1_acosta_Optativo_V\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -78,14 +78,14 @@
         }
       }
     },
-    "F:\\Repositorio\\api.personas\\Services\\Services.csproj": {
+    "F:\\Repositorio\\tp1_acosta_Optativo_V\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Repositorio\\api.personas\\Services\\Services.csproj",
+        "projectUniqueName": "F:\\Repositorio\\tp1_acosta_Optativo_V\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "F:\\Repositorio\\api.personas\\Services\\Services.csproj",
+        "projectPath": "F:\\Repositorio\\tp1_acosta_Optativo_V\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "F:\\Repositorio\\api.personas\\Services\\obj\\",
+        "outputPath": "F:\\Repositorio\\tp1_acosta_Optativo_V\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,8 +106,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Repositorio\\api.personas\\Repository\\Repository.csproj": {
-                "projectPath": "F:\\Repositorio\\api.personas\\Repository\\Repository.csproj"
+              "F:\\Repositorio\\tp1_acosta_Optativo_V\\Repository\\Repository.csproj": {
+                "projectPath": "F:\\Repositorio\\tp1_acosta_Optativo_V\\Repository\\Repository.csproj"
               }
             }
           }

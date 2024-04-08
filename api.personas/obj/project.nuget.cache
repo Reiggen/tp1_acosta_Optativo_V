@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xskaXtMKbLuaIUOee0RC1HIr53GRK1Bs3M7DGBYU/a1d+N+2z1zanv/Mf187mgwY1gTYp2LVKvnrm8vyoJeNPQ==",
+  "dgSpecHash": "DAI5WM3JVEKE4JMdUYCuzqQEVCSz+Rhvumnez6mamFZDq6ecUCIT17+mudjwNSqn2r0CJm/AfzNo3upUABXRuQ==",
   "success": true,
-  "projectFilePath": "F:\\Repositorio\\api.personas\\api.personas\\api.personas.csproj",
+  "projectFilePath": "F:\\Repositorio\\tp1_acosta_Optativo_V\\api.personas\\api.personas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angel\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
