@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "DAI5WM3JVEKE4JMdUYCuzqQEVCSz+Rhvumnez6mamFZDq6ecUCIT17+mudjwNSqn2r0CJm/AfzNo3upUABXRuQ==",
+  "dgSpecHash": "8QgrJCzRLUBxLFenf/RFAx+Kho1TzwEiyfhyaufV36QsgIm06uVw+OmleBwqsCngfbcOghXN6LsGZW2gvGgzjg==",
   "success": true,
   "projectFilePath": "F:\\Repositorio\\tp1_acosta_Optativo_V\\api.personas\\api.personas.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\angel\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",

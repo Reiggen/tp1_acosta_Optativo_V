@@ -16,15 +16,11 @@ F:\Repositorio\api.personas\Services\obj\Debug\net8.0\ref\Services.dll
 F:\Repositorio\tp1_acosta_Optativo_V\Services\bin\Debug\net8.0\Services.deps.json
 F:\Repositorio\tp1_acosta_Optativo_V\Services\bin\Debug\net8.0\Services.dll
 F:\Repositorio\tp1_acosta_Optativo_V\Services\bin\Debug\net8.0\Services.pdb
-F:\Repositorio\tp1_acosta_Optativo_V\Services\bin\Debug\net8.0\Repository.dll
-F:\Repositorio\tp1_acosta_Optativo_V\Services\bin\Debug\net8.0\Repository.pdb
-F:\Repositorio\tp1_acosta_Optativo_V\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
 F:\Repositorio\tp1_acosta_Optativo_V\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
 F:\Repositorio\tp1_acosta_Optativo_V\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
 F:\Repositorio\tp1_acosta_Optativo_V\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
 F:\Repositorio\tp1_acosta_Optativo_V\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
 F:\Repositorio\tp1_acosta_Optativo_V\Services\obj\Debug\net8.0\Services.sourcelink.json
-F:\Repositorio\tp1_acosta_Optativo_V\Services\obj\Debug\net8.0\Services.csproj.Up2Date
 F:\Repositorio\tp1_acosta_Optativo_V\Services\obj\Debug\net8.0\Services.dll
 F:\Repositorio\tp1_acosta_Optativo_V\Services\obj\Debug\net8.0\refint\Services.dll
 F:\Repositorio\tp1_acosta_Optativo_V\Services\obj\Debug\net8.0\Services.pdb

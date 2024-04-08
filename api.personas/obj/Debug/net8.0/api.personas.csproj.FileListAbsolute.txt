@@ -43,16 +43,13 @@ F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\api.personas.
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\api.personas.runtimeconfig.json
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\api.personas.dll
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\api.personas.pdb
-F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\Dapper.dll
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\Microsoft.OpenApi.dll
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\Npgsql.dll
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\Repository.dll
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\Services.dll
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\Services.pdb
-F:\Repositorio\tp1_acosta_Optativo_V\api.personas\bin\Debug\net8.0\Repository.pdb
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\obj\Debug\net8.0\api.personas.csproj.AssemblyReference.cache
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\obj\Debug\net8.0\api.personas.GeneratedMSBuildEditorConfig.editorconfig
 F:\Repositorio\tp1_acosta_Optativo_V\api.personas\obj\Debug\net8.0\api.personas.AssemblyInfoInputs.cache
